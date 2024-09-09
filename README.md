@@ -1,7 +1,3 @@
-# 💫 About Me:
-> My name is **R4shSec (Rash)**. I make videos on YouTube about cybersecurity-related stuff. 
-
-
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/r4shsec) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/r4shsec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@R4shSec) 
 
