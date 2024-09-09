@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a web developer <br>🌱 I’m currently learning C++
+> My name is **R4shSec (Rash)**. I make videos on YouTube about cybersecurity-related stuff. 
 
 
 ## 🌐 Socials:
