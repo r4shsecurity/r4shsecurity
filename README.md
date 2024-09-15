@@ -1,3 +1,5 @@
+![Banner](https://media.discordapp.net/attachments/1282624138439299073/1284744104596475904/R4sh_Banner.png?ex=66e7beaf&is=66e66d2f&hm=0d279fc8f5fd7a877bb71883e8a97e47aafa7a16cc8ea725002bab57cfbb0687&=&format=webp&quality=lossless&width=1077&height=606)
+
 ## 🌐 Socials:
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/r4shsec) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/r4shsec) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@R4shSec) 
 
